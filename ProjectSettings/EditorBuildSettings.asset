@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VFX_Challenge.unity
+    guid: 3fa5103ce950c884b9e3f827e0b9b333
   m_configObjects: {}
